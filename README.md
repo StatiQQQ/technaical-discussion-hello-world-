@@ -1,6 +1,6 @@
 # technaical-discussion-hello-world: Coursera Cloud Computing Foundation(Duke University)
 
->basic markdown in jupyter with hello world
+>basic hello world in jupyter
 
 
 ## This is the secondary heading for jupyter hello world:
