@@ -1,4 +1,4 @@
-# technaical-discussion-hello-world: Coursera Cloud Computing Foundation(Duke University)
+# technical-discussion-hello-world: Coursera Cloud Computing Foundation(Duke University)
 
 >basic hello world in jupyter
 
