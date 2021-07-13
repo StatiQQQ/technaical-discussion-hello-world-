@@ -13,6 +13,6 @@
 
 >This link is to the python workspace printing "hello world" via Juypter Notebook
 
-* [Shareable Google Colab Link]()
+* [Shareable Google Colab Link](https://github.com/StatiQQQ/technaical-discussion-hello-world-/blob/main/technical_discussion_hello_world.ipynb)
 
 >This link is to the python workspace printing "hello world" via Google Colab
