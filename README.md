@@ -1,4 +1,4 @@
-# technaical-discussion-hello-world:
+# technaical-discussion-hello-world: Coursera Cloud Computing Foundation(Duke University)
 
 >basic markdown in jupyter with hello world
 
