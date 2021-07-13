@@ -3,7 +3,7 @@
 >basic hello world in jupyter
 
 
-## The links to find jupyter hello world:
+## The links to find jupyter "hello world" .ipynb file:
 
 * [Shareable Coursera Link](https://hub.coursera-apps.org:443/connect/sharedtxtwspzl?forceRefresh=false)
 
