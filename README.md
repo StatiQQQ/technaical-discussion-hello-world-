@@ -11,6 +11,8 @@
 
 * [Practice-Markdown](https://zxyvgwia.labs.coursera.org/notebooks/Practice-Markdown.ipynb)
 
->This link is to the python workspace printing "hello world"
+>This link is to the python workspace printing "hello world" via Juypter Notebook
 
 * [Shareable Google Colab Link]()
+
+>This link is to the python workspace printing "hello world" via Google Colab
